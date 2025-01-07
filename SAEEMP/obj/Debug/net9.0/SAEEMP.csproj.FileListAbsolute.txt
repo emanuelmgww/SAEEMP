@@ -1,0 +1,14 @@
+C:\Users\Emanuel\Documents\SAEEMP\SAEEMP\bin\Debug\net9.0\SAEEMP.exe
+C:\Users\Emanuel\Documents\SAEEMP\SAEEMP\bin\Debug\net9.0\SAEEMP.deps.json
+C:\Users\Emanuel\Documents\SAEEMP\SAEEMP\bin\Debug\net9.0\SAEEMP.runtimeconfig.json
+C:\Users\Emanuel\Documents\SAEEMP\SAEEMP\bin\Debug\net9.0\SAEEMP.dll
+C:\Users\Emanuel\Documents\SAEEMP\SAEEMP\bin\Debug\net9.0\SAEEMP.pdb
+C:\Users\Emanuel\Documents\SAEEMP\SAEEMP\obj\Debug\net9.0\SAEEMP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emanuel\Documents\SAEEMP\SAEEMP\obj\Debug\net9.0\SAEEMP.AssemblyInfoInputs.cache
+C:\Users\Emanuel\Documents\SAEEMP\SAEEMP\obj\Debug\net9.0\SAEEMP.AssemblyInfo.cs
+C:\Users\Emanuel\Documents\SAEEMP\SAEEMP\obj\Debug\net9.0\SAEEMP.csproj.CoreCompileInputs.cache
+C:\Users\Emanuel\Documents\SAEEMP\SAEEMP\obj\Debug\net9.0\SAEEMP.dll
+C:\Users\Emanuel\Documents\SAEEMP\SAEEMP\obj\Debug\net9.0\refint\SAEEMP.dll
+C:\Users\Emanuel\Documents\SAEEMP\SAEEMP\obj\Debug\net9.0\SAEEMP.pdb
+C:\Users\Emanuel\Documents\SAEEMP\SAEEMP\obj\Debug\net9.0\SAEEMP.genruntimeconfig.cache
+C:\Users\Emanuel\Documents\SAEEMP\SAEEMP\obj\Debug\net9.0\ref\SAEEMP.dll

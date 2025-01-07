@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "SAEEMP/1.0.0": {
+        "runtime": {
+          "SAEEMP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SAEEMP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
