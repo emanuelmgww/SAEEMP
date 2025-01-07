@@ -18,3 +18,5 @@ Ele está em constante evolução e será **atualizado no futuro** para incluir 
 3. Execute o seguinte comando para compilar e executar:
    ```bash
    dotnet run
+
+***OBS:*** O resultado do programa é em formato Jason
