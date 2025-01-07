@@ -6,7 +6,7 @@ Este projeto está em constante evolução e será **atualizado no futuro** para
 
 ## Estrutura do Projeto
 
-- **Classes**: Contém as classes principais do sistema, como `Cobrador`, `Funcionario`, etc.
+- **Classes**: Contém as classes principais do sistema, como `Funcionario`, `Veiculo`, etc.
 - **Program.cs**: O ponto de entrada da aplicação.
 
 ## Como Executar
