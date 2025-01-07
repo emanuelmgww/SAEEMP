@@ -19,4 +19,4 @@ Ele está em constante evolução e será **atualizado no futuro** para incluir 
    ```bash
    dotnet run
 
-***OBS:*** O resultado do programa é em formato Jason
+***OBS:*** O resultado do programa é em formato Json
