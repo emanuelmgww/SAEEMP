@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SAEEMP")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7092d93ed3711f182a8caf5c8869a73655a6b782")]
 [assembly: System.Reflection.AssemblyProductAttribute("SAEEMP")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SAEEMP")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
