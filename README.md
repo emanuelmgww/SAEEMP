@@ -1,4 +1,4 @@
-# SAEMP
+# SAEEMP
 
 Este é o projeto **SAEMP**. Ele é uma aplicação desenvolvida em C# com a finalidade de **estudar e aplicar os conceitos de Programação Orientada a Objetos (POO)**. Através desse projeto, busquei aplicar os princípios da POO, como herança, e abstração, com o objetivo de melhorar minha compreensão e habilidades em C#.
 
